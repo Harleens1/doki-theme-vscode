@@ -1,0 +1,24 @@
+{
+  "id": "35422aa4-1396-4e76-8ec6-c5560884df22",
+  "overrides": {},
+  "laf": {
+    "extends": "light",
+    "ui": {
+      "editor.lineHighlightBackground": "&headerColor&77",
+      "sideBarSectionHeader.background": "&headerColor&",
+      "activityBar.background": "&headerColor&",
+      "list.highlightForeground": "&accentColorDarker&",
+      "editorLineNumber.activeForeground": "&accentColorDarker&",
+      "scrollbarSlider.hoverBackground": "&accentColorSecondary&9A",
+      "scrollbarSlider.background": "&accentColorSecondary&5A",
+      "scrollbarSlider.activeBackground": "&accentColorSecondary&9A"
+    }
+  },
+  "backgrounds": {
+    "default": {
+      "anchor": "right"
+    }
+  },
+  "syntax": {},
+  "colors": {}
+}

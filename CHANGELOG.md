@@ -1,5 +1,50 @@
 # Change Log
 
+# 10.0.0 [Glass Pane Wallpapers!]
+
+- Changed the behavior of the wallpapers to look like they are behind a glass pane!
+  - Be sure to run the `Install ... Wallpaper` action!
+- Sticker and Wallpaper actions are now separate. (Mix and match if you so choose!)
+
+![Screenshot 2021-03-07 095027](https://user-images.githubusercontent.com/15972415/110246286-aba5f200-7f2c-11eb-8ddc-51a4867997fd.png)
+![Screenshot 2021-03-07 094953](https://user-images.githubusercontent.com/15972415/110246284-ab0d5b80-7f2c-11eb-8b7b-136c8496a980.png)
+
+
+# 9.1.0 [Better Python Support]
+
+- Added better syntax coloring for Python code.
+
+| Before | After |
+| --- | --- |
+| ![Screenshot from 2021-03-03 17-08-15](https://user-images.githubusercontent.com/15972415/109885062-8c187c00-7c43-11eb-9f1d-7557b280e79d.png) | ![Screenshot from 2021-03-03 17-07-25](https://user-images.githubusercontent.com/15972415/109885082-920e5d00-7c43-11eb-889d-7d2055cce7d8.png) |
+
+
+# 9.0.1 [Wallpaper Anchoring]
+
+- Updated the anchoring of various theme's wallpapers so that you can see your waifu!
+  - Be sure to re-install the stickers for this to take effect.
+
+| Before | After |
+| --- | --- |
+| ![Screenshot from 2021-02-20 06-10-01](https://user-images.githubusercontent.com/15972415/108594985-e14eb680-7342-11eb-8afc-09afe2bc9af0.png) | ![Screenshot from 2021-02-20 06-09-22](https://user-images.githubusercontent.com/15972415/108594986-e3187a00-7342-11eb-819c-30e49ea16cfe.png) |
+
+# 9.0.0 [Zero Two, Sakurajima Mai]
+
+## 4 New Themes
+
+From the Darling in the Franxx series:
+
+- Zero Two (Dark/light)
+
+From the Rascal does not dream of bunny girl senpai series:
+
+- Sakurajima Mai (Dark/light)
+  - 2 Stickers:
+    - A Mild One
+    - A Spicy One
+
+![v13 Girls](https://doki.assets.unthrottled.io/misc/v13_girls.png)
+
 # 8.0.0 [Echidna, Yukino, Kurisu, Asuna, Umi, & Konata]
 
 ## 5 New Themes!

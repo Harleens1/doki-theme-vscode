@@ -1,9 +1,0 @@
-{
-  "name":"dark",
-  "extends":"base",
-  "ui": {
-    "editor.lineHighlightBackground": "&baseBackground&",
-    "sideBarSectionHeader.background": "&baseBackground&",
-    "activityBar.background": "&baseBackground&"
-  }
-}
